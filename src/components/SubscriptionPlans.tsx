@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import MockBackground from "../assets/mock-bg.png";
 
 interface Plan {
   id: number;
