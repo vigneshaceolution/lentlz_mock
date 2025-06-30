@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&h=400&fit=crop&crop=center",
+    "title": "Description",
+    "description": "Presentations are tools that can be used as lectures"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&h=400&fit=crop&crop=center",
+    "title": "Description",
+    "description": "Presentations are tools that can be used as lectures"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400&h=400&fit=crop&crop=center",
+    "title": "Description",
+    "description": "Presentations are tools that can be used as lectures"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&h=400&fit=crop&crop=center",
+    "title": "Delicious Meals",
+    "description": "Freshly cooked meals with authentic taste"
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1523986371872-9d3ba2e2f642?w=400&h=400&fit=crop&crop=center",
+    "title": "Tasty Treats",
+    "description": "Enjoy a variety of sweets and snacks"
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1543352634-5bf3e996c150?w=400&h=400&fit=crop&crop=center",
+    "title": "Healthy Choices",
+    "description": "Balanced meals packed with nutrition"
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?w=400&h=400&fit=crop&crop=center",
+    "title": "Daily Specials",
+    "description": "Surprising flavors curated by our chefs"
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=400&fit=crop&crop=center",
+    "title": "Family Pack",
+    "description": "Perfect for sharing meals with loved ones"
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1505253210343-d4fd70f1f127?w=400&h=400&fit=crop&crop=center",
+    "title": "Quick Bites",
+    "description": "Grab-n-go meals for your busy schedule"
+  }
+]
+  

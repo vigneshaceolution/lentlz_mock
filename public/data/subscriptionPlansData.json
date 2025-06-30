@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "dayCount": 3,
+    "title": "3-Day Plan",
+    "description": "3 or 4 meal items per day (with/without rice).",
+    "weeklyPrice": 60,
+    "image": "food1"
+  },
+  {
+    "id": 2,
+    "dayCount": 4,
+    "title": "4-Day Plan",
+    "description": "3 or 4 meal items per day (with/without rice).",
+    "weeklyPrice": 80,
+    "image": "food2"
+  },
+  {
+    "id": 3,
+    "dayCount": 5,
+    "title": "5-Day Plan",
+    "description": "Maximum meal plan option for a full workweek.",
+    "weeklyPrice": 100,
+    "image": "food3"
+  }
+]
